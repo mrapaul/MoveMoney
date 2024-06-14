@@ -158,7 +158,7 @@ GET /balance
 Clone the Repository:
 
 ```bash
-git clone https://github.com/your-repo/transfer-service.git
+git clone https://github.com/mrapaul/MoveMoney.git
 cd transfer-service
 ```
 
