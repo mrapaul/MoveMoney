@@ -159,7 +159,7 @@ Clone the Repository:
 
 ```bash
 git clone https://github.com/mrapaul/MoveMoney.git
-cd transfer-service
+cd MoveMoney
 ```
 
 ### Build the Project:
